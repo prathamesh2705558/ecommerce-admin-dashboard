@@ -8,6 +8,8 @@ https://ecommerce-admin-dashboard-fawn.vercel.app
 📦 **GitHub Repository:**  
 https://github.com/prathamesh2705558/ecommerce-admin-dashboard  
 
+Demo video link
+https://youtu.be/mLC_gi62C3g
 ---
 
 ## 📖 Overview

@@ -83,6 +83,6 @@ NEXTAUTH_URL=http://localhost:3000
 Run Development Server:
 
 Bash
-
 npm run dev
+
 Open http://localhost:3000 in your browser.

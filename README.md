@@ -1,3 +1,4 @@
+```text
 # 🛒 Server-Rendered E-commerce Admin Dashboard
 
 Built with **Next.js (Pages Router)**, **MongoDB**, **Tailwind CSS**, and **NextAuth.js**.
@@ -48,39 +49,4 @@ ecommerce-admin-dashboard/
 ├── .env                 # Environment Variables
 ├── next.config.js       # Next.js Configuration
 └── package.json         # Project Dependencies
-🔑 Admin Access
-This dashboard is protected for administrative use. To evaluate the project:
-
-Go to the Live Demo.
-
-Click Login with Google.
-
-Authenticate with your Google account to gain access to the admin panels.
-
-🚀 Local Setup
-Clone the repository:
-
-Bash
-
-git clone [https://github.com/prathamesh2705558/ecommerce-admin-dashboard.git](https://github.com/prathamesh2705558/ecommerce-admin-dashboard.git)
-cd ecommerce-admin-dashboard
-Install dependencies:
-
-Bash
-
-npm install --legacy-peer-deps
-Configure Environment Variables: Create a .env file in the root directory and add your credentials:
-
-Code snippet
-
-MONGODB_URI=your_mongodb_uri
-GOOGLE_CLIENT_ID=your_google_id
-GOOGLE_CLIENT_SECRET=your_google_secret
-NEXTAUTH_SECRET=your_random_secret
-NEXTAUTH_URL=http://localhost:3000
-Run Development Server:
-
-Bash
-
-npm run dev
-Open http://localhost:3000 in your browser.
+```

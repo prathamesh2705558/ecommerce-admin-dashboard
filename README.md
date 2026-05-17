@@ -116,10 +116,14 @@ npm run dev
 
 Open http://localhost:3000
  in your browser 🚀
- ## 🤝 Contributors
 
-- Prathamesh  
-  GitHub: https://github.com/prathamesh2705558
+🤝 Contributors
 
-- Udit Bhatt  
-  GitHub: https://github.com/UditBhatt12
+Prathamesh  
+GitHub: https://github.com/prathamesh2705558
+
+Udit Bhatt  
+GitHub: https://github.com/UditBhatt12
+
+Aayush Patel  
+GitHub: https://github.com/aayushp0403
